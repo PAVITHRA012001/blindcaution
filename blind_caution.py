@@ -1,4 +1,4 @@
-#from replit import clear
+
 
 print(
     '''  |\                     /)
